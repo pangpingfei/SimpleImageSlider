@@ -15,6 +15,7 @@ A simple and lightweight 'Image Slide View' for iOS written by Swift with UIColl
 
 - iOS 8.0 +
 - Xcode 8.0 +
+- Swift 3.0 +
 
 ## Installation
 
